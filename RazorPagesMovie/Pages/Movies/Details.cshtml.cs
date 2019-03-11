@@ -34,8 +34,6 @@ namespace RazorPagesMovie.Pages.Movies
                 return NotFound();
             }
             return Page();
-
         }
-
     }
 }
